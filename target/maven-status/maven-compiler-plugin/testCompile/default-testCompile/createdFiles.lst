@@ -1,0 +1,5 @@
+com\datasite\ui\test\CredentialsCheckRunner.class
+stepdefinitions\stepDefinitions.class
+com\datasite\ui\test\DateAndLanguagesCheckRunner.class
+com\datasite\ui\test\EmailCheckRunner.class
+com\datasite\ui\test\AllRunSimple.class
